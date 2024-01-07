@@ -1,5 +1,5 @@
 import Link from 'next/link'
-import { SimplePokemon } from '@/app/pokemons'
+import { SimplePokemon } from '@/pokemons'
 import { PokemonCard } from './PokemonCard'
 interface Props {
     pokemons: SimplePokemon[]
